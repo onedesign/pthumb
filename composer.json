@@ -1,0 +1,14 @@
+{
+    "name": "carnesmedia/pthumb",
+    "description": "PDF thumbnail generation for Craft CMS",
+    "type": "craft-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nathan Carnes",
+            "email": "nathan@actionsprout.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
